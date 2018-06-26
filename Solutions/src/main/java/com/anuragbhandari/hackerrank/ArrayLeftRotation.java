@@ -72,6 +72,7 @@ public class ArrayLeftRotation {
             }
         }
         bufferedWriter.newLine();
+        bufferedWriter.close();
         scanner.close();
     }
 }
