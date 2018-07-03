@@ -9,7 +9,7 @@ import org.junit.jupiter.api.Test;
 
 @Nested
 @DisplayName("given a valid array of integers and a rotation count")
-class CorrectnessTests {
+class ArrayLeftRotationTests {
     @Test
     @DisplayName("perform the given number of left rotations and return the correct output")
     void checkLeftRotationOutput() {
